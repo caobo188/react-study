@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, NavLink, Redirect } from 'react-router-
 import Home from './views/home/index.js'
 import About from './views/about/index.js'
 
-import './App.css';
+import './App.css'
  
 class App extends Component {
   render() {
@@ -26,4 +26,4 @@ class App extends Component {
   }
 }
  
-export default App;
+export default App
